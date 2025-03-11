@@ -1,0 +1,12 @@
+{
+    "formatter": {
+        "indentStyle": "space",
+        "indentWidth": 4,
+        "lineWidth": 128
+    },
+    "javascript": {
+        "formatter": {
+            "arrowParentheses": "asNeeded"
+        }
+    }
+}
